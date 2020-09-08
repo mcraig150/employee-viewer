@@ -21,8 +21,10 @@ React app used to display users employees with options to search and filter.
 #### Usage
 Use the search bar to input desired name or click on buttons to filter by role
 
+![Picture](public/readme.png)
 
 
+https://radiant-spire-82757.herokuapp.com/
 
 ##### Questions
 
