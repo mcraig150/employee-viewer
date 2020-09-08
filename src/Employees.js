@@ -7,7 +7,7 @@ class Employees extends React.Component {
   constructor() {
     super();
     this.state = {
-      role: "managers",
+      role: "all",
     };
   }
 
